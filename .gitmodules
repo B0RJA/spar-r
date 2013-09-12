@@ -1,0 +1,3 @@
+[submodule "spar"]
+	path = spar
+	url = https://github.com/B0RJA/spar.git
